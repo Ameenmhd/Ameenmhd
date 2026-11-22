@@ -27,7 +27,7 @@ I build and deploy machine learning, deep learning and generative AI application
 
 ## 🚀 Featured projects
 
-- **[RAG-Article-QA](https://github.com/Ameenmhd/RAG-Article-QA)**: CSV-based FAQ question answering using RAG with LangChain, FAISS, MiniLM embeddings and a Groq LLM.
+- **[RAG-Article-QA](https://github.com/Ameenmhd/RAG-Article-QA)**: CSV-based FAQ question answering using RAG with LangChain, Gemini, FAISS, MiniLM embeddings and a Streamlit interface.
 - **[PHANTOM](https://github.com/Ameenmhd/PHANTOM)**: a real-time AI invisibility effect using Python, OpenCV, MediaPipe and hand gestures.
 - **[meeting-intelligence-ai](https://github.com/Ameenmhd/meeting-intelligence-ai)**: meeting transcription with speaker labels, summarization and Minutes of Meeting generation (in progress).
 - **[project-portfolio](https://github.com/Ameenmhd/project-portfolio)**: a collection of my projects.
